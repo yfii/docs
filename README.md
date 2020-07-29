@@ -106,7 +106,7 @@ Click **Stake** and Metamask will ask you to authorize two transactions (one for
 
 1. You need DAI in your wallet before farming. Stake assets in Maker to borrow DAI or go to your favourite exchange to buy DAI.
 
-2. Go to the [DAI-YFII balancer pool](https://pools.balancer.exchange/#/pool/0x16cAC1403377978644e78769Daa49d8f6B6CF565) and setup **Balancer Proxy** first.
+2. Go to the [DAI-YFII balancer pool](https://bal.yfii.finance/#/pool/0x16cAC1403377978644e78769Daa49d8f6B6CF565) and setup **Balancer Proxy** first.
 
    a) If you have YFII, choose **All Pool Assets**.
 Unlock **DAI** and **YFII** (0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83) by sending two transactions and then they become unlocked. Input the amount you are going to deposit in either box of DAI or YFII, and the page will input the corresponding amount of the other for you. Click **Add Liquidity** to send a transaction and then you get BPT.
