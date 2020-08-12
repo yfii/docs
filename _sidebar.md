@@ -5,6 +5,7 @@
 
 - User Guide
     - [Yield Farming](yield-farming.md)
+    - [Vault](vault.md)
     - [Trading YFII](trading-yfii.md)
     - [Governance](governance.md)
 
