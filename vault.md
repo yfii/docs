@@ -1,6 +1,6 @@
 ## What is YFII Vault?
 
-YFII Vault is a yield aggregator for farming pools that rebalances for highest APR during contract interaction. Basically you deposit the token it supports and automatically get the yiled that the strategy has farmed. Everyone is welcomed to write their own strategies and those with the highest votes from the community will be implemented.
+YFII Vault is a yield aggregator for farming pools that targets highest APR using a set of strategy contracts. Basically you deposit the token it supports and automatically get the yield that the strategy has farmed. Everyone is welcomed to write their own strategies and those with the highest votes from the community will be implemented. The Vault also saves you tons of gas during complex contract interactions because all you need to do is just deposit and withdraw.
 
 ## YAM strategy: A brief how-to
 
