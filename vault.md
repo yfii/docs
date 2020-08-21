@@ -30,7 +30,7 @@ YFII Vault is a yield aggregator for farming pools that targets highest APR usin
 
 
 ### Old version
-### YAM strategy
+#### YAM strategy
 
 The first strategy online is the one that farms YAM pools. Users deposit any one of SNX/LEND/MKR/AMPL/YFI/COMP/LINK/WETH tokens into the YFII vault and enjoy yileds of YFII tokens.
 
@@ -44,7 +44,7 @@ The first strategy online is the one that farms YAM pools. Users deposit any one
 
 3. You can claim your yield at any time by clicking the *Claim* button on the right. If you'd like to exit the Vault, click *Withdraw*. The transaction will also claim the yiled for you when exiting.
 
-### CRV strategy
+#### CRV strategy
 
 The CRV strategy farms CRV tokens of Curve DAO by depositing yCRV (Y pool LP token of Curve) and automatically swaps CRV for YFII tokens as the final yield.
 
