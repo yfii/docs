@@ -13,6 +13,8 @@ YFII Vault is a yield aggregator for farming pools that targets highest APR usin
 > - In the past versions, a whale could make a sudden deposit to dilute others' incoming and then immediately withdraw its funds. Now this exploitation is no longer possible because the income will be emitted gradually in the following 24 hours after each deposit. For example, if a user claims the yield 8 hours after the last deposit transaction, he/she only gets 1/3 of the yield. Please note that the 24-hour countdown will be reset each time when the user deposits into the Vault.
 >
 > - Anyone can invoke the *Harvest* function to collect yields into the vault and in return get 1% of the YFII tokens in that batch. It may cost gas of approximately 0.1 ETH. Frequent harvesting can help reduce the slippage during token swaps and thus increase the whole income of the Vault. Please keep an eye on the current yield and also check if others have already invoked the function recently, or the rewards won't cover your gas fee.
+>
+> - When a new strategy is online, you do not need to transfer your funds to a new vault. The vault can automatically switch to the new strategy.
 
 1. This guide supposes you choose to deposit WETH into the Vault. First go to the [new Vault website](https://dfi.money/) and connect your wallet. Click *Vault* to enter the Vault interface.
 
@@ -20,7 +22,7 @@ YFII Vault is a yield aggregator for farming pools that targets highest APR usin
 
 ![](./img/vault-new1.png ':size=70%')
 
-3. You can see how many WETH you've deposited into the Vault in the *Deposited* section. You can withdraw at any time and when withdrawing, your yield (if there are any available) will be claimed at the same time. The *Earned* section displays how much you have actually earned in this Vault. You can claim your yield at any time without withdrawing your deposit. Please not that your claimable yield is released evenly in 24 hours after your last deposit. The *Pending* section indicates the estimated yield to be harvested into the Vault (and to become your *Earned* balance).
+3. You can see how many WETH you've deposited into the Vault in the *Deposited* section. You can withdraw at any time and when withdrawing, your yield (if there are any available) will be claimed at the same time. The *Earned* section displays how much you have actually earned in this Vault. You can claim your yield at any time without withdrawing your deposit. Please **note** that your claimable yield is released evenly in 24 hours after your last deposit. If you claim your yield within 24 hours, you only get a portion of it and the unclaimable part will be donated to YFII's development fund. The *Pending* section indicates the estimated yield to be harvested into the Vault (and to become your *Earned* balance).
 
 ![](./img/vault-new2.png ':size=70%')
 
@@ -30,6 +32,9 @@ YFII Vault is a yield aggregator for farming pools that targets highest APR usin
 
 
 ### Old version
+
+> ?> :bulb:**NB:** The old vaults are not generating enough yields. Please consider transferring your funds into the new vaults.
+
 #### YAM strategy
 
 The first strategy online is the one that farms YAM pools. Users deposit any one of SNX/LEND/MKR/AMPL/YFI/COMP/LINK/WETH tokens into the YFII vault and enjoy yileds of YFII tokens.
