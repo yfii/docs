@@ -11,7 +11,7 @@ Moreover, Yearn and Curve together created y.curve.fi, a pool for stable coin ex
 YFI is the token used for governing Yearn protocol. Its initiator Andre Cronje admitted that he had no interest in participating in the governance and wished the community to be autonomously organized. Until July 26th, YFI has been issued to yield farmers who provide liquidity to the pools (Info from debank.com).
 
 
-## YIP-8 and forking of YFI?
+## YIP-8 and forking of YFI
 
 As mentioned above, the mining/farming of YFI has stopped on July 26. In order to prevent a sharp drop in liquidity of the pools, the community proposed YIP-8, suggesting a weekly halving model for yield farming. Though more than 80% of the votes are FOR the proposal, it has been declined because of the unmet 33% quorum requirement. To protect Andre's genius design from being spoilt by whales, we forked YFI, naming it YFII. The issuance of YFII imitates the halving model of Bitcoin so that the tokens will be fairly distributed to the community.
 

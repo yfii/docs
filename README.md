@@ -10,7 +10,7 @@ by YFII Global Community
 
 ## Introduction
 
-**Y**FII's **F**or **I**nnovative **I**nvestment. YFII Finance is a community-owned DeFi infrastructure where its users determine what products they want and enjoy the yields. It's permissionless for all the people to join. Currently it has two pools that yield YFII tokens as well as CRV and possibly BAL rewards. Meanwhile, users can also stake YFII to receive yCRV incomes from the Yearn protocal. The killer product of YFII is the Vault which allows retail investors to enjoy the highest APR for yield farming with just one click.
+**Y**FII's **F**or **I**nnovative **I**nvestment. YFII Finance is a community-owned DeFi infrastructure where its users determine what products they want and enjoy the yields. It's permissionless for all the people to join. Currently it has [two pools](./yield-farming.md) that yield YFII tokens as well as CRV and BAL rewards. The killer product of YFII is the [Vault](./vault.md) which allows retail investors to enjoy the highest APR for yield farming with just one click.
 
 
 ## Contract Addresses:
@@ -20,12 +20,6 @@ by YFII Global Community
 **YFII Pool 2**: 0xAFfcD3D45cEF58B1DfA773463824c6F6bB0Dc13a
 
 **YFII Pool 3**: 0xf1750B770485A5d0589A6ba1270D9FC354884D45
-
-**YAM Vault**: 0xA9C7216650dA5A9bbC049ffa56008029344DB010
-
-**CRV Vault**： 0xd2db1ef55549ecdacb4e7da081216ae96f0eedcb
-
-**CRV Strategy**：0xfd4c75184bed2013fdb621f54885b2d2ed7c3894
 
 **YFII Token**: 0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83
 
