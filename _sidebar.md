@@ -5,9 +5,11 @@
 
 - User Guide
     - [Yield Farming](yield-farming.md)
-    - [Vault](vault.md)
+    - [YFII Vault](vault.md)
+    - [Using CRV](using-crv.md)
     - [Trading YFII](trading-yfii.md)
     - [Governance](governance.md)
+    - [FAQ](faq.md)
 
 - For Developers
 
