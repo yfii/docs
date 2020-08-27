@@ -26,7 +26,7 @@ by YFII Global Community
 **BPT Token**: 0x16cAC1403377978644e78769Daa49d8f6B6CF565
 
 
-!> **Warning**: This project is still in *Beta* and the smart contract has not been audited. Please **use at your own risk**.
+!> **Warning**: This project is still in *Beta*. Please **use at your own risk**.
 
 ?> **Note**: YFII has zero financial value.
 

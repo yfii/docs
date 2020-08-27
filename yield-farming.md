@@ -1,18 +1,14 @@
+?> The total supply of YFII token is 40,000 and all the tokens are distributed from two pools by a procedure called yield farming. Basically, you stake one kind of token into the pool and get YFII tokens as rewards.
+
 ## Pool 1: Curve yCRV
 
-1. You'll need yCRV to farm YFII from Pool 1. Go to [Curve's Y pool](https://www.curve.fi/iearn/deposit) and deposit any one or any combo of USDT/DAI/USDC/TUSD to get yCRV.
+1. You'll need yCRV to farm YFII from Pool 1. You can get yCRV following [this guide](using-crv.md?id=how-to-get-ycrv).
 
-![](./img/vault3.png ':size=70%')
-
-The above transaction may cost about 0.3 ETH worth of gas, so if you're playing with a small amount of fund you may want to buy yCRV directly on [Uniswap](https://app.uniswap.org/#/swap). Set the target token to 0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8 (yCRV) and swap.
-
-![](./img/vault4.png ':size=40%')
-
-2. 3. Now you have yCRV in your wallet and are ready to farm YFII. Go to https://yfii.finance and click **Stake**. Open the **yearn** pool (Pool 1).
+2. Now you have yCRV in your wallet and are ready to farm YFII. Go to https://yfii.finance and click **Stake**. Open the **yearn** pool (Pool 1).
 
 ![](./img/pool1-5.png ':size=30%')
 
-Click **Stake Tokens** and Metamask will ask you to authorize two transactions (one for permission to spend and the other for staking).
+3. Click **Stake Tokens** and Metamask will ask you to authorize two transactions (one for permission to spend and the other for staking).
 
 ![](./img/pool1-6.png ':size=70%')
 
