@@ -7,14 +7,14 @@
 
 ### 1. YFII购买或兑换
 YFII/DAI的交易对在Balancer深度最好，用DAI兑换时，建议使用Balancer。
-ETH/YFII 的交易对在Uniswap深度最好，用ETH兑换YFII时，建议使用Balancer。
+ETH/YFII 的交易对在Uniswap深度最好，用ETH兑换YFII时，建议使用Uniswap。
 
 
 #### 1.1 方法一：火币交易所购买YFII，然后提取到钱包（小白用户推荐）
 #### 1.2 方法二：钱包里用Uniswap或Balancer兑换YFII
 **图文教程：**
 
-**以Uniswap为例**：[https://app.uniswap.org/#/swap](https://app.uniswap.org/#/swap)
+**以Uniswap为例**：[https://app.uniswap.org/#/swap](https://app.uniswap.org/#/swap?outputCurrency=0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83)
 
 1）在钱包里找到Uniswap，连接上钱包
 
