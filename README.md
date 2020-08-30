@@ -33,7 +33,7 @@ by YFII Global Community
 
 ## Community
 
-**Twitter**: https://twitter.com/FinanceYfii
+**Twitter**: https://twitter.com/DfiMoney
 
 **Telegram**: https://t.me/yfiifinance
 
