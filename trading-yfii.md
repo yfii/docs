@@ -17,9 +17,13 @@ Go to [Balancer](https://balancer.exchange/#/swap). Choose **DAI** at one side a
 
 ## CEXes
 
-:fire:**Huobi**: https://www.huobi.com/en-us/exchange/yfii_usdt/
+**Binance**: https://www.binance.com/en/trade/YFII_USDT
+
+**Huobi**: https://www.huobi.com/en-us/exchange/yfii_usdt/
 
 **Hobit**: https://www.hotbit.io/exchange?symbol=YFII_USDT
+
+**OKEx**: https://www.okex.com/market?product=yfii_usdt
 
 **MXC**: https://www.mxc.com/trade/easy#YFII_USDT
 
