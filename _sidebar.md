@@ -11,6 +11,9 @@
     - [Governance](governance.md)
     - [FAQ](faq.md)
 
+- Advanced Topics
+    - [Harvesting](harvesting.md)
+
 - For Developers
 
     - [Contracts](contracts.md)
