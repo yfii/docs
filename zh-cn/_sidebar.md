@@ -5,4 +5,7 @@
 - 使用指南
     - [机枪池相关币种兑换](zh-cn/buy-tokens.md)
 
+- 进阶专题
+    - [iToken](zh-cn/itokens.md)
+
 - 开发者指南

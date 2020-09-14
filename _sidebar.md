@@ -12,8 +12,9 @@
     - [FAQ](faq.md)
 
 - Advanced Topics
-    - [Harvesting](harvesting.md)
     - [iTokens](itokens.md)
+    - [Harvesting](harvesting.md)
+
 
 - For Developers
 
