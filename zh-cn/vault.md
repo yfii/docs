@@ -5,7 +5,9 @@ vault 合约信息都在 https://raw.githubusercontent.com/yfii/yvault/master/co
 
 abi在：https://github.com/yfii/yvault/raw/master/abi/ivault.json
 
-第三方对接只需要与 vault合约地址就可以了
+apy在: https://api.dfi.money/apy.json
+
+第三方对接只需要与 vault合约对接就可以了
 
 vault合约本身是兼容erc20的,名字都是iToken 如存入的是USDT则返回的是iUSDT
 
