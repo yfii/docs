@@ -7,7 +7,7 @@ YFII Vault is a yield aggregator for farming pools that targets highest APR usin
 
 iToken refers to a set of tokens that serve as proof of deposit in the vaults. Since version 2.0, users who deposit funds into the vaults will automatically get corresponding iTokens. For example, if you deposit USDT into the vault, it gives back iUSDT which is interest bearing. As the vault is generating yields, when you later return your iUSDT to withdraw your funds, you should get more USDT than you have deposited.
 
-The fun part of iToken is that you do not have to withdraw your funds from the vault by yourself. The interest-bearing iTokens can be transferred or traded in the market. The price of an iToken in the original token (e.g., iDAI/DAI) is always above 1 and this number should be increasing all the time as long as the vault is generating yields. iTokens can also be used as collaterals for debts or staked for yield farming. That's the first step towards the world of DeFi LEGOs.
+The fun part of iToken is that you do not have to withdraw your funds from the vault by yourself. The interest-bearing iTokens can be transferred or traded in the market. The price of an iToken in the original token (e.g., iDAI/DAI) is always above 1 and this number should be increasing all the time as long as the vault is generating yields. iTokens can also be used as collaterals for debts or staked for yield farming. That's the first step towards the world of DeFi LEGOs. You can read more about iToken [here](itokens.md).
 
 
 ## How to use the Vault?

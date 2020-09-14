@@ -13,6 +13,7 @@
 
 - Advanced Topics
     - [Harvesting](harvesting.md)
+    - [iTokens](itokens.md)
 
 - For Developers
 
