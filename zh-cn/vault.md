@@ -18,7 +18,8 @@ iToken的价格是不断增长的. 持有就会一值增值.
 
 ### 入金 (需要先对vault合约授权)
 
-存入指定数量的代币到vault `function deposit(uint _amount)`  
+存入指定数量的代币到vault `function deposit(uint _amount)` 
+（eth是例外的,可以直接转账给vault合约） 
 
 存入以后会按照汇率返回指定的iToken数量.  
 
@@ -32,6 +33,7 @@ iToken可以交易、转账，后续会开通iToken/Token lp的挖矿.
 1. 可以直接通过uniswap换回去(目前还没有激励流动性挖矿)
 2. 通过合约兑换回去
     `function withdraw(uint amount)`  这边的amount是iToken的数量
+    （取eth是例外的，方法名字是withdrawETH,withdraw是取weth出来）
 
 ## 如何计算Token 换到iToken的数量
 
